@@ -1,1 +1,10 @@
 /* Add application styles & imports to this file! */
+
+.tooltip-container {
+  position: absolute;
+  background-color: #000000;
+  color: #ffffff;
+  font-size: 12px;
+  padding: 5px;
+  border-radius: 6px;
+}
